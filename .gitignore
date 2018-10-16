@@ -1,0 +1,8 @@
+temaLab-2/.vs/
+temaLab-2/TestResults/
+temaLab-2/Classes/.sonarqube/
+temaLab-2/Classes/bin/
+temaLab-2/Classes/obj/
+temaLab-2/Classes.Tests/bin/
+temaLab-2/Classes.Tests/obj/
+temaLab-2/Classes.Tests/result.json

@@ -14,7 +14,7 @@ namespace Classes
         [RegularExpression(@"^\+40[0-9]{9}$", ErrorMessage="Nu e bun numarul")]
         public string PhoneNumber {get; set;}
 
-        [RegularExpression(@"^[a-z]+(\.[a-z]+)?\@[a-z]+\.com$", ErrorMessage="Email incorect")]
+        [RegularExpression(@"^[a-zA-Z0-9]+([\.\_][a-zA-Z0-9]+)?\@[a-z]+\.[a-z]{2,5}$", ErrorMessage = "Invalid phone number")]
         public string Email {get; set;}
     }
 }

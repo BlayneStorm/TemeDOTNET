@@ -1,0 +1,12 @@
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/bin/Debug/netstandard2.0/BookRepositories.deps.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/bin/Debug/netstandard2.0/BookRepositories.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/bin/Debug/netstandard2.0/BookRepositories.pdb
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/bin/Debug/netstandard2.0/Books.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/bin/Debug/netstandard2.0/Books.pdb
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/obj/Debug/netstandard2.0/BookRepositories.csprojAssemblyReference.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/obj/Debug/netstandard2.0/BookRepositories.csproj.CoreCompileInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/obj/Debug/netstandard2.0/BookRepositories.AssemblyInfoInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/obj/Debug/netstandard2.0/BookRepositories.AssemblyInfo.cs
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/obj/Debug/netstandard2.0/BookRepositories.csproj.CopyComplete
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/obj/Debug/netstandard2.0/BookRepositories.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/obj/Debug/netstandard2.0/BookRepositories.pdb

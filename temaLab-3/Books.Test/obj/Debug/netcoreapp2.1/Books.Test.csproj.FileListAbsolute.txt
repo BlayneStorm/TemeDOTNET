@@ -1,0 +1,17 @@
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.Test.deps.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.Test.runtimeconfig.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.Test.runtimeconfig.dev.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.Test.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.Test.pdb
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.pdb
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/obj/Debug/netcoreapp2.1/Books.Test.csprojAssemblyReference.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/obj/Debug/netcoreapp2.1/Books.Test.csproj.CoreCompileInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/obj/Debug/netcoreapp2.1/Books.Test.AssemblyInfoInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/obj/Debug/netcoreapp2.1/Books.Test.AssemblyInfo.cs
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/obj/Debug/netcoreapp2.1/Books.Test.csproj.CopyComplete
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/obj/Debug/netcoreapp2.1/Books.Test.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/obj/Debug/netcoreapp2.1/Books.Test.pdb

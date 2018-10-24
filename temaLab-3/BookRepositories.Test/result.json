@@ -1,0 +1,417 @@
+{
+  "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories.Test/bin/Debug/netcoreapp2.1/Books.dll": {
+    "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/Book.cs": {
+      "Books.Book": {
+        "System.Int32 Books.Book::get_BookId()": {
+          "Lines": {
+            "14": 150
+          },
+          "Branches": []
+        },
+        "System.String Books.Book::get_Title()": {
+          "Lines": {
+            "16": 150
+          },
+          "Branches": []
+        },
+        "System.Int32 Books.Book::get_Year()": {
+          "Lines": {
+            "18": 262
+          },
+          "Branches": []
+        },
+        "System.Int32 Books.Book::get_Price()": {
+          "Lines": {
+            "20": 262
+          },
+          "Branches": []
+        },
+        "Books.GenreEnum Books.Book::get_Genre()": {
+          "Lines": {
+            "22": 210
+          },
+          "Branches": []
+        },
+        "System.Void Books.Book::CheckParam(System.String)": {
+          "Lines": {
+            "25": 150,
+            "26": 150,
+            "27": 0,
+            "28": 0,
+            "31": 150,
+            "32": 0,
+            "33": 0,
+            "35": 150
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 9,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 150
+            },
+            {
+              "Line": 31,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 35,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 150
+            }
+          ]
+        },
+        "Books.Book Books.Book::Create(System.Int32,System.String,System.Int32,System.Int32,Books.GenreEnum)": {
+          "Lines": {
+            "38": 150,
+            "39": 150,
+            "41": 150,
+            "42": 150,
+            "43": 150,
+            "44": 150,
+            "45": 150,
+            "46": 150,
+            "47": 150,
+            "48": 150,
+            "49": 150
+          },
+          "Branches": []
+        },
+        "System.Void Books.Book::.ctor()": {
+          "Lines": {
+            "9": 150,
+            "10": 150,
+            "12": 150
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories.Test/bin/Debug/netcoreapp2.1/BookRepositories.dll": {
+    "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/BookRepositories/BookRepository.cs": {
+      "BookRepositories.BookRepository": {
+        "System.Collections.Generic.List`1<Books.Book> BookRepositories.BookRepository::get_BookList()": {
+          "Lines": {
+            "15": 31
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllBooks()": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 11,
+            "23": 1,
+            "24": 1
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 19,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByYearDescending()": {
+          "Lines": {
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 11,
+            "31": 1,
+            "33": 1,
+            "34": 1
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 28,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByYearAscending()": {
+          "Lines": {
+            "37": 1,
+            "38": 1,
+            "39": 1,
+            "40": 11,
+            "41": 1,
+            "43": 1,
+            "44": 1
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 38,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByPriceDescending()": {
+          "Lines": {
+            "47": 1,
+            "48": 1,
+            "49": 1,
+            "50": 11,
+            "51": 1,
+            "53": 1,
+            "54": 1
+          },
+          "Branches": [
+            {
+              "Line": 48,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 48,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByPriceAscending()": {
+          "Lines": {
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 11,
+            "61": 1,
+            "63": 1,
+            "64": 1
+          },
+          "Branches": [
+            {
+              "Line": 58,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 58,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllBooksGroupedByGenre(Books.GenreEnum)": {
+          "Lines": {
+            "67": 2,
+            "68": 2,
+            "69": 2,
+            "70": 22,
+            "71": 2,
+            "73": 2,
+            "74": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllBooksMethodSyntax()": {
+          "Lines": {
+            "77": 1,
+            "78": 1,
+            "80": 1,
+            "81": 1
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByYearAscendingMethodSyntax()": {
+          "Lines": {
+            "84": 1,
+            "85": 11,
+            "87": 1,
+            "88": 1
+          },
+          "Branches": [
+            {
+              "Line": 85,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 85,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByYearDescendingMethodSyntax()": {
+          "Lines": {
+            "91": 1,
+            "92": 11,
+            "94": 1,
+            "95": 1
+          },
+          "Branches": [
+            {
+              "Line": 92,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 92,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByPriceAscendingMethodSyntax()": {
+          "Lines": {
+            "98": 1,
+            "99": 11,
+            "101": 1,
+            "102": 1
+          },
+          "Branches": [
+            {
+              "Line": 99,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 99,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllOrderByPriceDescendingMethodSyntax()": {
+          "Lines": {
+            "105": 1,
+            "106": 11,
+            "108": 1,
+            "109": 1
+          },
+          "Branches": [
+            {
+              "Line": 106,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 106,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Books.Book> BookRepositories.BookRepository::RetrieveAllBooksGroupedByGenreMethodSyntax(Books.GenreEnum)": {
+          "Lines": {
+            "112": 2,
+            "113": 22,
+            "115": 2,
+            "116": 2
+          },
+          "Branches": []
+        },
+        "BookRepositories.BookRepository BookRepositories.BookRepository::Create(System.Collections.Generic.List`1<Books.Book>)": {
+          "Lines": {
+            "119": 16,
+            "120": 16,
+            "121": 16,
+            "122": 16,
+            "123": 16,
+            "124": 16
+          },
+          "Branches": []
+        },
+        "System.Void BookRepositories.BookRepository::.ctor()": {
+          "Lines": {
+            "10": 16,
+            "11": 16,
+            "13": 16
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books.Test/bin/Debug/netcoreapp2.1/Books.dll": {
+    "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/Book.cs": {
+      "Books.Book": {
+        "System.Int32 Books.Book::get_BookId()": {
+          "Lines": {
+            "14": 1
+          },
+          "Branches": []
+        },
+        "System.String Books.Book::get_Title()": {
+          "Lines": {
+            "16": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 Books.Book::get_Year()": {
+          "Lines": {
+            "18": 2
+          },
+          "Branches": []
+        },
+        "System.Int32 Books.Book::get_Price()": {
+          "Lines": {
+            "20": 1
+          },
+          "Branches": []
+        },
+        "Books.GenreEnum Books.Book::get_Genre()": {
+          "Lines": {
+            "22": 1
+          },
+          "Branches": []
+        },
+        "System.Void Books.Book::CheckParam(System.String)": {
+          "Lines": {
+            "25": 3,
+            "26": 3,
+            "27": 1,
+            "28": 1,
+            "31": 2,
+            "32": 1,
+            "33": 1,
+            "35": 1
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 26,
+              "Offset": 9,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 31,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 31,
+              "Offset": 35,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "Books.Book Books.Book::Create(System.Int32,System.String,System.Int32,System.Int32,Books.GenreEnum)": {
+          "Lines": {
+            "38": 1,
+            "39": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1
+          },
+          "Branches": []
+        },
+        "System.Void Books.Book::.ctor()": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "12": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

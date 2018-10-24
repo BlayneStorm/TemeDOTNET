@@ -1,0 +1,14 @@
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/bin/Debug/netcoreapp2.1/Console.deps.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/bin/Debug/netcoreapp2.1/Console.runtimeconfig.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/bin/Debug/netcoreapp2.1/Console.runtimeconfig.dev.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/bin/Debug/netcoreapp2.1/Console.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/bin/Debug/netcoreapp2.1/Console.pdb
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/bin/Debug/netcoreapp2.1/Classes.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/bin/Debug/netcoreapp2.1/Classes.pdb
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/Debug/netcoreapp2.1/Console.csprojAssemblyReference.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/Debug/netcoreapp2.1/Console.csproj.CoreCompileInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/Debug/netcoreapp2.1/Console.AssemblyInfoInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/Debug/netcoreapp2.1/Console.AssemblyInfo.cs
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/Debug/netcoreapp2.1/Console.csproj.CopyComplete
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/Debug/netcoreapp2.1/Console.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/Debug/netcoreapp2.1/Console.pdb

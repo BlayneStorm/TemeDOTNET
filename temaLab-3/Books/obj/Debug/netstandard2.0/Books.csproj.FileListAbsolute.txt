@@ -1,0 +1,9 @@
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/bin/Debug/netstandard2.0/Books.deps.json
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/bin/Debug/netstandard2.0/Books.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/bin/Debug/netstandard2.0/Books.pdb
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/obj/Debug/netstandard2.0/Books.csprojAssemblyReference.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/obj/Debug/netstandard2.0/Books.csproj.CoreCompileInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/obj/Debug/netstandard2.0/Books.AssemblyInfoInputs.cache
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/obj/Debug/netstandard2.0/Books.AssemblyInfo.cs
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/obj/Debug/netstandard2.0/Books.dll
+/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-3/Books/obj/Debug/netstandard2.0/Books.pdb

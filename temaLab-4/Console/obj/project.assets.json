@@ -3424,23 +3424,23 @@
     ]
   },
   "packageFolders": {
-    "/home/mihnea/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\mihnea\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/Console.csproj",
+      "projectUniqueName": "C:\\Users\\mihnea\\Documents\\dotnet\\TemeDOTNET\\temaLab-4\\Console\\Console.csproj",
       "projectName": "Console",
-      "projectPath": "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/Console.csproj",
-      "packagesPath": "/home/mihnea/.nuget/packages/",
-      "outputPath": "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Console/obj/",
+      "projectPath": "C:\\Users\\mihnea\\Documents\\dotnet\\TemeDOTNET\\temaLab-4\\Console\\Console.csproj",
+      "packagesPath": "C:\\Users\\mihnea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mihnea\\Documents\\dotnet\\TemeDOTNET\\temaLab-4\\Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/mihnea/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mihnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -3451,8 +3451,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Classes/Classes.csproj": {
-              "projectPath": "/home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Classes/Classes.csproj"
+            "C:\\Users\\mihnea\\Documents\\dotnet\\TemeDOTNET\\temaLab-4\\Classes\\Classes.csproj": {
+              "projectPath": "C:\\Users\\mihnea\\Documents\\dotnet\\TemeDOTNET\\temaLab-4\\Classes\\Classes.csproj"
             }
           }
         }

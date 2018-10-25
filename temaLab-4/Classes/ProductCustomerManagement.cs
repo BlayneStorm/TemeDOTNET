@@ -17,7 +17,7 @@ namespace Classes
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=localhost;Database=Test;User Id=SA;Password=Testtest00;integrated security=false;");
+                optionsBuilder.UseSqlServer(@"Server=localhost;Database=Tema4;Trusted_Connection=True;");
             }
 
         }

@@ -7,3 +7,12 @@
 /home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Classes/bin/Debug/netstandard2.0/Classes.pdb
 /home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Classes/obj/Debug/netstandard2.0/Classes.dll
 /home/mihnea/Documents/dotNet/TemeDOTNET/temaLab-4/Classes/obj/Debug/netstandard2.0/Classes.pdb
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-4\Classes\obj\Debug\netstandard2.0\Classes.pdb

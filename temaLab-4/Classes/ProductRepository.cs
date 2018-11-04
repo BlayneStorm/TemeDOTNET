@@ -18,15 +18,6 @@ namespace Classes
             _context.SaveChanges();
         }
 
-        public void Update(Product product)
-        {
-            var existingProduct = this._context.Products.First(p => p.Id == product.Id);
-            existingProduct.Description = product.Description;
-            existingProduct.Price = product.Price;
-
-            _context.SaveChanges();
-        }
-
         public void Delete(Product product)
         {
             var existingProduct = this._context.Products.Find(product.Id);

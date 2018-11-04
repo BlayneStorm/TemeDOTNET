@@ -1,0 +1,4 @@
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs

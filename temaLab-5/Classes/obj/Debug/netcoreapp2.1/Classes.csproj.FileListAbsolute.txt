@@ -1,0 +1,9 @@
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netcoreapp2.1\Classes.csprojAssemblyReference.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netcoreapp2.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfoInputs.cache
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfo.cs
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\bin\Debug\netcoreapp2.1\Classes.deps.json
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\bin\Debug\netcoreapp2.1\Classes.dll
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\bin\Debug\netcoreapp2.1\Classes.pdb
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netcoreapp2.1\Classes.dll
+C:\Users\mihnea\Documents\dotnet\TemeDOTNET\temaLab-5\Classes\obj\Debug\netcoreapp2.1\Classes.pdb

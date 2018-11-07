@@ -1,0 +1,9 @@
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb

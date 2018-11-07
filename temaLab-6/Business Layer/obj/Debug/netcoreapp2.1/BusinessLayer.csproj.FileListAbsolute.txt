@@ -1,0 +1,12 @@
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\bin\Debug\netcoreapp2.1\DataLayer.dll
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+D:\Facultate - Stuff\Anul III\DOTNET\Munteanu - Labs\DotNetLabs\Lab6\Business Layer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb

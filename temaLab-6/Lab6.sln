@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6", "Lab6\Lab6.csproj", "{C52D0D04-EDD1-4169-882C-5AD6D976BF60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{A0B56E85-1DB9-4D58-862C-86A6D7A83AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "Business Layer\BusinessLayer.csproj", "{3D98C230-4E45-49E0-B34F-AEE0F59823B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C52D0D04-EDD1-4169-882C-5AD6D976BF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52D0D04-EDD1-4169-882C-5AD6D976BF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52D0D04-EDD1-4169-882C-5AD6D976BF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52D0D04-EDD1-4169-882C-5AD6D976BF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B56E85-1DB9-4D58-862C-86A6D7A83AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B56E85-1DB9-4D58-862C-86A6D7A83AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B56E85-1DB9-4D58-862C-86A6D7A83AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B56E85-1DB9-4D58-862C-86A6D7A83AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D98C230-4E45-49E0-B34F-AEE0F59823B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D98C230-4E45-49E0-B34F-AEE0F59823B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D98C230-4E45-49E0-B34F-AEE0F59823B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D98C230-4E45-49E0-B34F-AEE0F59823B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610AF4B6-AF39-4365-8E3E-0BA9DAD7FE68}
+	EndGlobalSection
+EndGlobal
